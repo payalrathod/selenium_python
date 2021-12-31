@@ -13,7 +13,7 @@ print(bcd.is_displayed())           #returns true or false based on element stat
 print(bcd.is_enabled())             #returns true or false
 
 abc.send_keys("xzy@gmail.com")
-bcd.send_keys("password@123")
+bcd.send_keys("password123")
 
 #driver.find_element_by_name("commit").click()
 #driver.find_element_by_id("user_submit").click()
