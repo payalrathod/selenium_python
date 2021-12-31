@@ -12,15 +12,18 @@ bcd = driver.find_element_by_name("user[password]")
 print(bcd.is_displayed())           #returns true or false based on element status
 print(bcd.is_enabled())             #returns true or false
 
-abc.send_keys("payal.rakeshrathod@gmail.com")
-bcd.send_keys("Pass@123")
+abc.send_keys("xzy@gmail.com")
+bcd.send_keys("password@123")
 
 #driver.find_element_by_name("commit").click()
 #driver.find_element_by_id("user_submit").click()
 #driver.find_element_by_css_selector("").click()
+
 #clicking on the button
+
 #button = driver.find_elements_by_xpath("//*[@id='user_submit']")
 #button.click()
+
 driver.find_element_by_id("accept-cookie-notification").click()
 driver.find_element_by_id("user_submit").click()
 #driver.find_element_by_id().get_attribute()
