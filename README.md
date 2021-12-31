@@ -1,5 +1,5 @@
-# selenium_python
-### Selenium using python ###
+# Selenium using python ###
+
 This repository consists of python programming code performed on PyCharm to teach basics of selenium test script.
 Download chrome driver: https://chromedriver.chromium.org/downloads
 
