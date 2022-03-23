@@ -7,3 +7,4 @@ Download chrome driver: https://chromedriver.chromium.org/downloads
 * Part2: Basic commands
 * Part3: Navigation commands
 * Part4: Login to website
+* Part5: Search on Google
